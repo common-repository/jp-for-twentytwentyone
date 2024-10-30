@@ -1,0 +1,6 @@
+/**
+ * Write the editing CSS in this file.
+ */
+ .customize-control input[type=number] {
+	width:50%;
+}
